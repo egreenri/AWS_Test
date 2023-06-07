@@ -1,0 +1,27 @@
+{
+	"name": "seniorprojectwiki",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/smmarold/SeniorProjectWiki.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/smmarold/SeniorProjectWiki/issues"
+	},
+	"homepage": "https://github.com/smmarold/SeniorProjectWiki#readme",
+	"dependencies": {
+		"@emotion/react": "^11.11.0",
+		"@emotion/styled": "^11.11.0",
+		"@mui/material": "^5.13.2",
+		"express": "^4.18.2",
+		"react-router-dom": "^6.11.2"
+	}
+}
